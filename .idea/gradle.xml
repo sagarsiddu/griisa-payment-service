@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/backend" />
+        <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/backend" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/backend/account-service" />
+        <option name="gradleJvm" value="homebrew-21 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/backend/account-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/backend/api-gateway" />
+        <option name="gradleJvm" value="homebrew-21 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/backend/api-gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/backend/auth-service" />
+        <option name="gradleJvm" value="homebrew-21 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/backend/auth-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/backend/common-lib" />
+        <option name="gradleJvm" value="homebrew-21 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/backend/common-lib" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/backend/notification-service" />
+        <option name="gradleJvm" value="homebrew-21 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/backend/notification-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/backend/payment-service" />
+        <option name="gradleJvm" value="homebrew-21 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/backend/payment-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/backend/user-service" />
+        <option name="gradleJvm" value="homebrew-21 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/backend/user-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
